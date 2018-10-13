@@ -1,0 +1,51 @@
+---
+title: "Project_Scheme"
+author: "Yiming Qian"
+date: "10/12/2018"
+output: html_document
+---
+
+# Meetings with Rick
+
+<<<<<<< HEAD
+=======
+For the Fall 2018 Semester, I will meet Rick on Fridays from 1-2 pm in Rick's office.
+In some conditions, I may ask for extra meeting in the weekdays. 
+>>>>>>>
+
+
+## Schedule
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+### 2018-10-12  
+
+- length: 15 min 
+- Agenda: 
+  -set the scheme for projects
+  -MOCO project
+  -publication protocols
+  -socialization
+  -the project in wilkinson-lab
+  -r consulting
+- Next Meeting: Mon 4pm-5pm 
+- expected scheme:
+| MOCO project| tasks | deadline |
+| :---         |     :---:      |          ---: |
+| statistical analysis  | cleaning the data     | Oct 12    |
+|            |multilevel(Acc)   |Oct 13 |
+|            |multilevel(RT)   |Oct 14 |
+|            |ANOVA  |Oct 15 |
+|            |Adult v.s. child  |Oct 18 |
+|            |other  |Oct 21 |
+| writing    |get protocals        |Oct 15    |
+|            |result part      |Oct 26    |
+
+| R01 project| tasks | deadline |
+| :---         |     :---:      |          ---: |
+| statistical analysis  |read script from Jiayi and Rick, think of how to code    | Oct 14    |
+|    | output data structure     | Nov 3    |
+| abstract submission for Conference   | finish submission    | Dec 1    |
+
+### 2018-10-15 Friday (**Zoom!**)
+
