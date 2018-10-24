@@ -28,6 +28,34 @@ output: html_document
 | statistical analysis  |read script from Jiayi and Rick ("eye-tracking-DS", "Wilkinson-lab"), think of how to code    | Oct 14    |[x]|
 |    | output data structure     | Nov 3    |[]|
 | abstract submission for Conference   | finish submission    | Dec 1    |[]|
+
+| ** Review paper (meta-analysis)**| tasks          |      deadline  | progress |
+| :--------------       |:---------------------------------------------------------:|          :---:|   ---:|
+| literature review  | the goal for this review (infant/child/adult/animals, eeg/mri/behaviral)    | Nov  30, 2018   |[]|
+|    |collect the literature | Dec 11,2018    |[]|
+|    |read the literature | Jan 10, 2018   |[]|
+|    |outline and propose an original idea  | Jan 11, 2018  |[]|
+| Writing  |  | 2019  |[]|
+
+| ** the developing brain network with **| tasks          |      deadline  | progress |
+| :--------------       |:---------------------------------------------------------:|          :---:|   ---:|
+| Attempt | read the paper for synthetic brain betwork, whether I can change a parameter | Nov 4, 2018   |[]|
+| Brainstorm | generate the research question | NA  |[]|
+|    |methodology | NA   |[]|
+|    |what kind of data I want and how can I find the existed dataset | NA |[]|
+|    |outline and propose an original idea  | NA  |[]|
+| Writing  | write the proposal and prelimary analysis | Dec 4, 2018  |[]|
+
+| **Townsend project.**| tasks          |      deadline  | progress |
+| :--------------       |:---------------------------------------------------------:|          :---:|   ---:|
+| experimental design  | think whether I can use motion for double factorial design    | Nov  22, 2018   |[]|
+|    |staircase design | Nov 3    |[]|
+|    |brief proposal | Nov 29, 2018   |[]|
+|    |write the codes for experimental displays  | Dec  11, 2018  |[]|
+| IRB   | submit the protocal for IRB  | Dec 1, 2018    |[]|
+|   |  submit to SONA | Jan 11, 2019   |[]|
+
+***
 ## Meetings with Rick
 
 For the Fall 2018 Semester, I will meet Rick on Fridays from 1-2 pm in Rick's office.
@@ -46,14 +74,11 @@ In some conditions, I may ask for extra meeting in the weekdays.
     - r consulting
 - Next Meeting: Mon 4pm-5pm 
 
-
-***
 ### 2018-10-15 Monday (**Zoom!**)
 - length: 55 min 
 - Agenda: 
     - MOCO project
 
-***
 ### 2018-10-19 Friday 
 - length: 60 min 
 - location: Moore 114
@@ -61,4 +86,12 @@ In some conditions, I may ask for extra meeting in the weekdays.
     - MOCO project
     - the project in wilkinson lab
 
-
+### 2018-10-24 Wednesday
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - slack psu-psychology-forum: shall I invite other professors to the group? shall I invite all psychology student to the group?
+    - reorganized the MOCO project in github
+    - get Andrea's manuscripts: 
+    - credit transfer
+    - My intense interest in brain network, neuroimaging
