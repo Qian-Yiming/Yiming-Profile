@@ -90,8 +90,18 @@ In some conditions, I may ask for extra meeting in the weekdays.
 - length: 30 min 
 - location: Moore 114
 - Agenda: 
-    - slack psu-psychology-forum: shall I invite other professors to the group? shall I invite all psychology student to the group?
+    - slack psu-psychology-forum: shall I invite other professors to the group? shall I invite all psychology students to the group?
     - reorganized the MOCO project in github
     - get Andrea's manuscripts: 
+       - https://github.com/gilmore-lab/moco/blob/master/inf-2pat-lamrad/moco-inf-2pat-lamrad-manuscript2016.md (edited)
+       - https://github.com/gilmore-lab/moco-psychophysics/blob/master/pubs/moco-child-laminar-radial-psychophysics-manuscript-2016.md
+       - https://github.com/gilmore-lab/mofo/blob/master/child-tuning/pubs/mofo-child-manuscript2016.md
     - credit transfer
     - My intense interest in brain network, neuroimaging
+    - list the author guides for the possible journals
+    - how to add the references: 
+        example: https://github.com/psu-psychology/r-bootcamp-2018/blob/master/talks/gilmore-hallquist-bootcamp-2018-papaja.Rmd
+        1. add *.bib in the files; output: IO slide-presentaion or github_document
+        2. papaja
+        3. citr package
+        
