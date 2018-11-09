@@ -133,3 +133,15 @@ In some conditions, I may ask for extra meeting in the weekdays.
     - Can I talk with Suzy? 
     - undergraduate progree
     - Krista R01 experiment: data analysis
+    
+### 2018 Nov 9 Friday
+- length: 60 min 
+- location: Moore 114
+- Agenda: 
+    - wilkinson lab, make plot, meeting request
+    - Send the manuscript of MOCO next Wed to rick
+    - read paper "navigating cognition: spatial codes for human" & "cognitive map in human and rats"
+    - moving room experiment; human infants learn how to gaze in the first several months, how do they work with eye movement, body movement and head movement to adapt to the changing environment? Think out this
+    - when you touch your eye, you feel your world move. But when you move your eye, you feel the world remain still. What's the mechanism behind it? Different pathways?
+- Planned agenda for next meeting
+   
