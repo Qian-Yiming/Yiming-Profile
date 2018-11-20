@@ -56,11 +56,47 @@ output: html_document
 |   |  submit to SONA | Dec 7, 2019   |[]|
 
 ***
+## Meetings with Suzy
+
+For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018 to talk about working in her lab. 
+
+### 2018 Nov 19 Monday
+- length: 35 min 
+- location: Moore 115
+- Agenda: 
+    - plan: 
+        - working on the past dataset of DTI, fMRI or functional connectivity (choose one), to learn how to process these datasets
+        - then we can sit together with RIck to discuss the next step, such as collaboration or ...
+        - I expressed my interest to help with current projects, While Suzy said it still a long process before publishing paper. It is better for you to do sth which can be published soom
+    - SO, I need to talk with Rick:
+        - convey the content of this discussion with Suzy (timeline, the plan, my time management)
+    - lab meeting: 1-2:15PM on Friday every two weeks, two left this semester, one dissertation by post-doc, one honor thesis by 2 undergrads.
+    
+***
 ## Meetings with Rick
 
 For the Fall 2018 Semester, I will meet Rick on Fridays from 1-2 pm in Rick's office.
 In some conditions, I may ask for extra meeting in the weekdays. 
 
+### 2018 Nov 19 Monday
+- length: 150 min 
+- location: Ford 304
+- Agenda: 
+    - wilkinson lab
+    - abstract for VSS as the first author
+    - travel grants 
+    - check the LP data of AC 
+
+### 2018 Nov 9 Friday
+- length: 60 min 
+- location: Moore 114
+- Agenda: 
+    - wilkinson lab, make plot, meeting request
+    - Send the manuscript of MOCO next Wed to rick
+    - read paper "navigating cognition: spatial codes for human" & "cognitive map in human and rats"
+    - moving room experiment; human infants learn how to gaze in the first several months, how do they work with eye movement, body movement and head movement to adapt to the changing environment? Think out this
+    - when you touch your eye, you feel your world move. But when you move your eye, you feel the world remain still. What's the mechanism behind it? Different pathways?
+- Planned agenda for next meeting
 
 ### 2018-10-12 Friday
 
@@ -134,14 +170,5 @@ In some conditions, I may ask for extra meeting in the weekdays.
     - undergraduate progree
     - Krista R01 experiment: data analysis
     
-### 2018 Nov 9 Friday
-- length: 60 min 
-- location: Moore 114
-- Agenda: 
-    - wilkinson lab, make plot, meeting request
-    - Send the manuscript of MOCO next Wed to rick
-    - read paper "navigating cognition: spatial codes for human" & "cognitive map in human and rats"
-    - moving room experiment; human infants learn how to gaze in the first several months, how do they work with eye movement, body movement and head movement to adapt to the changing environment? Think out this
-    - when you touch your eye, you feel your world move. But when you move your eye, you feel the world remain still. What's the mechanism behind it? Different pathways?
-- Planned agenda for next meeting
+
    
