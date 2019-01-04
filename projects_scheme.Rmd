@@ -14,12 +14,12 @@ output: html_document
 |                                             |multilevel(Acc)   |Oct 13 |[x]|
 |                                             |multilevel(RT)   |Oct 14 |[x]|
 |                                             |ANOVA  |Oct 15 |[x]|
-|                                             |GLM for RT|Oct 22|[]|
-|                                             |Adult v.s. child  |Oct 22 |[]|
+|                                             |GLM for RT |Oct 22|[x]|
+|                                             |Adult v.s. child  |Oct 22 |[x]|
 |                                             |other  |Oct 21 |[]|
 | writing                                     |get protocals        |Oct 15    |[x]|
-|                                             |result      |Oct 24    |[]|
-|                                             |method      |Oct 25|[]|
+|                                             |result      |Oct 24    |[x]|
+|                                             |method      |Oct 25|[x]|
 |                                             |introduction|Oct 28|[]|
 |                                             |first finished manuscript|Nov 12 |[]|
 
@@ -49,8 +49,8 @@ output: html_document
 | **Townsend project.**| tasks          |      deadline  | progress |
 | :--------------       |:---------------------------------------------------------:|          :---:|   ---:|
 | experimental design  | think whether I can use motion for double factorial design    | Nov  17, 2018   |[]|
-|    |staircase design | Nov 19, 2018     |[]|
-|    |brief proposal | Nov 29, 2018   |[]|
+|    |staircase design | Nov 19, 2018     |[x]|
+|    |brief proposal | Nov 29, 2018   |[x]|
 |    |write the codes for experimental displays  | Dec 1, 2018  |[]|
 | IRB   | submit the protocal for IRB  | Dec 1, 2018    |[]|
 |   |  submit to SONA | Dec 7, 2019   |[]|
@@ -78,6 +78,43 @@ For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018
 For the Fall 2018 Semester, I will meet Rick on Fridays from 1-2 pm in Rick's office.
 In some conditions, I may ask for extra meeting in the weekdays. 
 
+### 2018 Nov 30 Friday
+- length: 30 min 
+- location: Moore 104
+- Agenda: 
+    - my prior meeting with Suzy
+    - TAship
+    - course in Spring 2018
+        - Shall I take statistical course?
+        - research thesis
+
+### 2018 Nov 28 Wednesday
+- length: 40 min 
+- location: Moore 114
+- Agenda: 
+    - VSS (sned link to Krista)
+    - TAship: Rick's course (Cannot find this course)
+    - PsychoPy how to set luminance? Greyness
+    - change lab meeting time to Friday 10AM-11PM
+    - PC in the lab
+    
+### 2018 Nov 19 Monday
+- length: 150 min 
+- location: Ford 304
+- Agenda: 
+    - Spring 2019 subject pool screening 
+        - Rich Carlson:  "If you would like to include a NEW instrument not previously included or submitted to the screening, I will need that instrument no later than **Thursday, December 7**, so that I can submit a modification to the IRB protocol for the screening.
+    - a one-week NIH funded Summer Short Course (14-20 July 2019) titled "Interdisciplinary Training in Computational Neuroscience" 
+        - The deadline for applications is 15 February 2019.  An on-line application form and additional details can be found in the attached flyer and at the website: https://engineering.missouri.edu/academics/eecs/neuro/neuro-outreach/neuro-brain/
+    - my prior meeting with Suzy
+    - TAship
+    - course in Spring 2018
+        - Shall I take statistical course?
+        - research thesis
+    - PsychoPy how to set luminance? 
+    - IRB
+  
+
 ### 2018 Nov 19 Monday
 - length: 150 min 
 - location: Ford 304
@@ -86,6 +123,13 @@ In some conditions, I may ask for extra meeting in the weekdays.
     - abstract for VSS as the first author
     - travel grants 
     - check the LP data of AC 
+
+### 2018 Nov 17  (cancelled by snow)
+
+### 2018 Nov 14 Wednesday (drop-in)
+- length: 5 min
+- location: moore 114
+- Agenda: R01 project 2 analysis
 
 ### 2018 Nov 9 Friday
 - length: 60 min 
@@ -98,30 +142,35 @@ In some conditions, I may ask for extra meeting in the weekdays.
     - when you touch your eye, you feel your world move. But when you move your eye, you feel the world remain still. What's the mechanism behind it? Different pathways?
 - Planned agenda for next meeting
 
-### 2018-10-12 Friday
+### 2018 Nov 7 Wednesday (drop-in)
+- length: 20 min
+- location: moore 114
+- Agenda:
+    - Set up a regular check-in on Wednesday
+    - Spring 2018, course
+    - EEG softwares and protocal
+        - brainvision analyzer
+        - Power DIVA
+    - Can I talk with Suzy? 
+    - undergraduate progree
+    - Krista R01 experiment: data analysis
 
-- length: 15 min 
-- Agenda: 
-    - set the scheme for projects
-    - MOCO project
-    - publication protocols
-    - socialization
-    - the project in wilkinson lab
-    - r consulting
-- Next Meeting: Mon 4pm-5pm 
-
-### 2018-10-15 Monday (**Zoom!**)
-- length: 55 min 
-- Agenda: 
-    - MOCO project
-
-### 2018-10-19 Friday 
-- length: 60 min 
+### 2018 Nov 2 Friday
+- length: 30 min 
 - location: Moore 114
 - Agenda: 
-    - MOCO project
-    - the project in wilkinson lab
-
+    - MOFO project used for constructing neural network for course PHYS 580
+    - PLAY projects
+    - Machine learning in CATlab
+- Planned agenda for next meeting
+    - [P.E.O. International Peace Scholarship](https://www.peointernational.org/ips-eligibility-requirements) 
+        - Eligibility form due Dec 15; form due March 1
+        - consent form: "Upon completion of my degree program(s) or Optional Practical Training (OPT) I hereby promise to return to my home country or to a location outside the United States or Canada within 60 days, depending on my visa status." 
+    - Spring 2019 subject pool screening 
+        - Rich Carlson:  If you would like to include a NEW instrument not previously included or submitted to the screening, I will need that instrument no later than **Thursday, December 7**, so that I can submit a modification to the IRB protocol for the screening.  
+    ` SRCD coference in March, 2019 (WHen is the submission dadline?)
+    - Suzy & Michael
+  
 ### 2018-10-24 Wednesday
 - length: 30 min 
 - location: Moore 114
@@ -140,35 +189,27 @@ In some conditions, I may ask for extra meeting in the weekdays.
         1. add *.bib in the files; output: IO slide-presentaion or github_document
         2. papaja
         3. citr package
-        
-### 2018 Nov 2 Friday
-- length: 30 min 
+
+### 2018-10-19 Friday 
+- length: 60 min 
 - location: Moore 114
 - Agenda: 
-    - MOFO project used for constructing neural network for course PHYS 580
-    - PLAY projects
-    - Machine learning in CATlab
-- Planned agenda for next meeting
-    - [P.E.O. International Peace Scholarship](https://www.peointernational.org/ips-eligibility-requirements) 
-        - Eligibility form due Dec 15; form due March 1
-        - consent form: "Upon completion of my degree program(s) or Optional Practical Training (OPT) I hereby promise to return to my home country or to a location outside the United States or Canada within 60 days, depending on my visa status." 
-    - Spring 2019 subject pool screening 
-        - Rich Carlson:  If you would like to include a NEW instrument not previously included or submitted to the screening, I will need that instrument no later than **Thursday, December 7**, so that I can submit a modification to the IRB protocol for the screening.  
-    ` SRCD coference in March, 2019 (WHen is the submission dadline?)
-    - Suzy & Michael
+    - MOCO project
+    - the project in wilkinson lab
 
-### 2018 Nov 7 Wednesday (drop-in)
-- length: 20 min
-- location: moore 114
-- Agenda:
-    - Set up a regular check-in on Wednesday
-    - Spring 2018, course
-    - EEG softwares and protocal
-        - brainvision analyzer
-        - Power DIVA
-    - Can I talk with Suzy? 
-    - undergraduate progree
-    - Krista R01 experiment: data analysis
+### 2018-10-15 Monday (**Zoom!**)
+- length: 55 min 
+- Agenda: 
+    - MOCO project
     
-
+### 2018-10-12 Friday
+- length: 15 min 
+- Agenda: 
+    - set the scheme for projects
+    - MOCO project
+    - publication protocols
+    - socialization
+    - the project in wilkinson lab
+    - r consulting
+- Next Meeting: Mon 4pm-5pm 
    
