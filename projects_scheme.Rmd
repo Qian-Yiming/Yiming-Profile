@@ -8,20 +8,15 @@ output: html_document
 ***
 ## expected scheme:
 
-| **MOCO project.**                           | tasks                 | deadline | Progress|
-| :---                                        |     :---:             | :---:    |     ---:|
-| statistical analysis| cleaning the data     | Oct 12   |[x]       |
-|                                             |multilevel(Acc)   |Oct 13 |[x]|
-|                                             |multilevel(RT)   |Oct 14 |[x]|
-|                                             |ANOVA  |Oct 15 |[x]|
-|                                             |GLM for RT |Oct 22|[x]|
-|                                             |Adult v.s. child  |Oct 22 |[x]|
-|                                             |other  |Oct 21 |[]|
-| writing                                     |get protocals        |Oct 15    |[x]|
-|                                             |result      |Oct 24    |[x]|
-|                                             |method      |Oct 25|[x]|
-|                                             |introduction|Oct 28|[]|
-|                                             |first finished manuscript|Nov 12 |[]|
+| Project| idea developed |IRB| grant sumbitted|data collection|data analysis|conference| manuscript|submission|review|published|
+| :---|     :---: | :---:|:---:|:---:|:---:|:---:|:---:|     ---:|
+| **MOCO project.**  |[x]|[x]|[x]|[x]|[x]|[x]|[x]||||
+|**R01 project.**| [x]|[x]|[x]|[x]|[x]||[x]||||
+| ** Review paper (meta-analysis)**|
+| ** the developing brain network with **| [x]||[x]|[x]||[x]||||
+| **Townsend project.**| [x]|||||||||
+| **Franco project.**| 
+
 
 | **R01 project.**| tasks          |      deadline  | progress |
 | :--------------       |:---------------------------------------------------------:|          :---:|   ---:|
@@ -60,6 +55,38 @@ output: html_document
 
 For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018 to talk about working in her lab. 
 
+### 2018 Feb 1 Monday
+- length: 70 min 
+- location: Moore 115
+- Agenda: 
+    - copy the TD adolescents and adults data to the folder (see shard Evernote)
+    - asked the experimental design questions
+    - scheduled next meeting
+    
+### 2018 Jan 14 Monday
+- length: 90 min 
+- location: Moore 115
+- Agenda: 
+    - plan: 
+      work on the ASD study with 24 adolescence and 24 adults (p/neutral/n face/animal face/objects)
+        - pixal-magnitude
+        - size- behavior
+        - connnectivity
+            - Pattern of connectivity
+            - ED (R package Gimme)
+            - graph theory metrics
+      e.g. 1 bigger size of FFA, smaller ED
+           2 FFA size
+        yes  /      \?  (Yes for adult)
+           Age----->CFMT
+    - to do
+       - read Whyte et al., 2015
+       - schedule a meeting to check the subjects in the data and discuss about the predoctoral Autism Speaks
+       - read the previous applicants for Autism Speaks, and check
+          - range of funding (eye/behavioral/neuroimaging)
+          - secondary data/ first-hand data collection
+          - what is their goal: who want to develop skills/ deveote life to study ASD (You have skills. I want you incorporate it to study and make ASD population better)
+
 ### 2018 Nov 19 Monday
 - length: 35 min 
 - location: Moore 115
@@ -75,12 +102,93 @@ For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018
 ***
 ## Meetings with Rick
 
-For the Fall 2018 Semester, I will meet Rick on Fridays from 1-2 pm in Rick's office.
+For the Spring 2019, I will meet Rick on Fridays from 1-2 pm in Rick's office.
 In some conditions, I may ask for extra meeting in the weekdays. 
 
+### 2018 Feb 1 Monday
+- length: 70 min 
+- location: Moore 114
+- Agenda: 
+    - check Rick's manuscrip
+    - graduate exhibition (past date)
+    - to attend the conference, present the work and build the academic network. Rick said he do not know who will attend Linguistics and Cognitive Science Student Conference 2019
+    
+### 2019 Jan 15 Friday
+- length:
+- location: Moore 114
+- question:
+    - why do you say the motion sensitivity is underestimated in the experiments?
+    - ICPSR Summer Program in Quantitative Methods of Social Research [https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html]
+    - summer course/schedule
+    - graduate exhibition [https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&utm_medium=email&utm_term=0_8969d35e92-29808ba476-168543285]
+    -  Linguistics and Cognitive Science Student Conference 2019 (Friday, April 12th, 2019) Deadline for abstract submission: February 28th, 2019 (by 5 pm EST)
+- Agenda:
+
+### 2019 Jan 15 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - summer: no more than 3 weeks vocation are good
+    - drift diffusion model for MOCO
+    - finish the r script and plot in R
+    - email Andrea the experimental diagram in temple talk 2017-02-17 in github
+    - new experiments:
+        - measure motion (eye/object/head/body) empirically, get the speed distribution
+        - 2 eye parameter
+          3 head parameters
+          3 body linear parameters
+          3 body rotation parameters
+        - get the parameters which is common at this age and use them to simulate the scene to see the noise sensitivity
+    
+### 2019 Jan 15 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - MOCO manuscript
+-To do: 
+    - ICPSR Summer Program in Quantitative Methods of Social Research [https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html]
+    - summer course/schedule
+    - graduate exhibition [https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&utm_medium=email&utm_term=0_8969d35e92-29808ba476-168543285]
+
+### 2019 Jan 11 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - MOCO manuscript
+    - grant application:
+      - Autism Speaks [https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf]
+      
+### 2019 Jan 10 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - MOCO manuscript
+    - neural network paper
+    - grant application:
+      - Autism Speaks [https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf]
+    - Reading this week
+      - 2 paper
+      - reading in course "Social development": How locomotion influence the perception, social cognition (Children start being able to differentiate the self from other in the world) and parent-child interaction
+
+### 2019 Jan 4 Friday
+- length: 74 min 
+- location: Moore 114
+- Agenda: 
+    - give gifts
+    - holiday greetings
+    - course locomotion - balance your registered work with own research time (reading, thinking, writing, etc)
+    - lab meeting -Wed
+    - read 
+        - Paper "Motion perception: a review of developmental changes and the role of early visual experience"
+        - Paper "Identifying netural images from human brain activity"
+        - Chapter "Looking with the head and eyes"
+        - Check whether the chapter is worth reading in the lab meeting: "Perceiving Layout and knowing distances: the integration, relative potency, and contextual Use of Different Information about Depth"
+    - Send the MOCO manuscript on Jan 11, Friday
+    - Human vision (25 watz, more efficient) v.s. computer vision
+        
 ### 2018 Nov 30 Friday
 - length: 30 min 
-- location: Moore 104
+- location: Moore 114
 - Agenda: 
     - my prior meeting with Suzy
     - TAship
