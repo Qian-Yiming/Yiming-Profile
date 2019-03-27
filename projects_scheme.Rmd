@@ -55,6 +55,14 @@ output: html_document
 
 For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018 to talk about working in her lab. 
 
+### 2018 Feb 16 Sat
+- length: 5 min 
+- location: after the interview recruitment presentation
+- Agenda: 
+    - meet Sarah first to know how to preprocess the data and we wwill schedule the next meeting
+    - work all the time in the summer
+    - the research question: FFA changes toward human face and nonhuman face from adolscence to adulthood
+    
 ### 2018 Feb 1 Monday
 - length: 70 min 
 - location: Moore 115
@@ -105,12 +113,47 @@ For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018
 For the Spring 2019, I will meet Rick on Fridays from 1-2 pm in Rick's office.
 In some conditions, I may ask for extra meeting in the weekdays. 
 
-### 2018 
+### 2018 Mar 1 Friday
+- length: 20 min 
+- location: Moore 114
+- Agenda: 
+    - credit transfer
+    - graduate exhibition
+    - Master thesis
+- to do: 
+    - I asked Sherri, to approve the course. I need to ask advisor to wrote a demo to the instructor (such as Johnathon Cook) for asking the approval that XXX (my previous course) is equivalent to course XXX (such as 507/508). Then the instructor can send an email to Sherri, and she can put it into my folder.
+    - Graduate exhibition, I am not listed in the team of the IRB I provided
+        
+### 2018 Feb 15 Friday
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - graduate exhibition Feb 22
+    - finish the moco manuscript, can I use it as the thesis? But it require the proposal submission. I need to ask Jenae
+    - cover note for slack group
+    - travel grant from csc $800
+    - From the interview, I found that: 
+        - poster can be the first-year project
+        - master thesis defense need proposal
+        - The doctoral dissertation can be 3 paper, or a big project (Alicia just submitted a F31 grant ; if passed, she will use it as the dissertation. If not, she will do 3 paper)
+        - SCAN would be promoted as a dual-title 
+    
+### 2018 Feb 8 Friday
+- length: 70 min 
+- location: Moore 114
+- Agenda: 
+    - generate ssh key: ssh-keygen.py
+    - set the ssh project: git remote set-url origin [ssh origin]
+    - vss
+    - travel grant adivior signature
+    - google "publication ready plot"
+    - graduate exhibition (Feb 22)
+
 ### 2018 Feb 1 Monday
 - length: 70 min 
 - location: Moore 114
 - Agenda: 
-    - check Rick's manuscrip
+    - check Rick's manuscript
     - graduate exhibition (past date)
     - to attend the conference, present the work and build the academic network. Rick said he do not know who will attend Linguistics and Cognitive Science Student Conference 2019
     

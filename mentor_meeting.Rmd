@@ -1,0 +1,30 @@
+---
+title: "Mentor Meeting"
+author: "Yiming"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mentor Meeting summary
+This is the record of mentor meeting starting from Mar 19, 2019
+
+## 2019 Mar 19 Tuesday
+- length: 60 min 
+- location: Cafe Laura
+- Note:
+    - Alicia: For my T32, Koraly gave me two projects and add together. I need to think in my own way to work it out.
+    - Alicia: In the early career life, you can only do the small piece. To build up the theory a bit by a bit. Such as her research focus is the social engagement. Her dissertation topic is the social engagement in the certain period of time and certain population. I should not be very ambitious.
+    - Alicia: Training grant idea is by herself, add two new methods (eye-tracking and fMRI) and her own population (adolescents). Although Kistin have similar data and told Alicia can use her data. Alicia planned to do the project in Koraly's lab with Koraly as the primary advisor, Mike as second, Kristin as counsellor.
+    - have good communication with professor
+        - Tell Rick this is what I want to do. what I am excited about
+        - What is Rick's to-go research project?
+        - Does he want me think of a project to do, or I just need to follow him?
+    - Conference: Social network with professor. Introduct yourself to the professor
+       - BEST WAY: introduced by your advisor, then if the other professor have a good connection with your advisor, they would memorize you
+       - after the talk, introduce yourself: "Hi, I am Yiming Qian. My advisor is Rick. I just want to introduce myself to you. blablabla"
+       - ask/email them whether I could have a meeting with them/grab a coffee with them
+    - three basic courses: Social/cognitive development, development theory

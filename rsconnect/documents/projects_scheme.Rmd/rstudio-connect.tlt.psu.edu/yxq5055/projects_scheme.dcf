@@ -5,8 +5,8 @@ account: yxq5055
 server: rstudio-connect.tlt.psu.edu
 hostUrl: https://rstudio-connect.tlt.psu.edu:3939/__api__
 appId: 22
-bundleId: 47
+bundleId: 162
 url: https://rstudio-connect.tlt.psu.edu:3939/content/22/
-when: 1539393413.87923
+when: 1549651440.52004
 asMultiple: FALSE
 asStatic: TRUE

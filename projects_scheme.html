@@ -11,7 +11,7 @@
 
 <meta name="author" content="Yiming Qian" />
 
-<meta name="date" content="2018-11-03" />
+<meta name="date" content="2019-02-08" />
 
 <title>Project Scheme</title>
 
@@ -98,6 +98,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -105,14 +108,74 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -124,7 +187,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Project Scheme</h1>
 <h4 class="author"><em>Yiming Qian</em></h4>
-<h4 class="date"><em>2018-11-03</em></h4>
+<h4 class="date"><em>2019-02-08</em></h4>
 
 </div>
 
@@ -132,87 +195,83 @@ $(document).ready(function () {
 <hr />
 <div id="expected-scheme" class="section level2">
 <h2>expected scheme:</h2>
-<table>
+<table style="width:72%;">
+<colgroup>
+<col width="6%"></col>
+<col width="8%"></col>
+<col width="8%"></col>
+<col width="8%"></col>
+<col width="8%"></col>
+<col width="8%"></col>
+<col width="8%"></col>
+<col width="8%"></col>
+<col width="6%"></col>
+</colgroup>
 <thead>
 <tr class="header">
-<th align="left"><strong>MOCO project.</strong></th>
-<th align="center">tasks</th>
-<th align="center">deadline</th>
-<th align="right">Progress</th>
+<th align="left">Project</th>
+<th align="center">idea developed</th>
+<th align="center">IRB</th>
+<th align="center">grant sumbitted</th>
+<th align="center">data collection</th>
+<th align="center">data analysis</th>
+<th align="center">conference</th>
+<th align="center">manuscript</th>
+<th align="right">submission</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">statistical analysis</td>
-<td align="center">cleaning the data</td>
-<td align="center">Oct 12</td>
-<td align="right">[x]</td>
+<td align="left"><strong>MOCO project.</strong></td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="right"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="center">multilevel(Acc)</td>
-<td align="center">Oct 13</td>
-<td align="right">[x]</td>
+<td align="left"><strong>R01 project.</strong></td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center"></td>
+<td align="center">[x]</td>
+<td align="right"></td>
 </tr>
 <tr class="odd">
-<td align="left"></td>
-<td align="center">multilevel(RT)</td>
-<td align="center">Oct 14</td>
-<td align="right">[x]</td>
+<td align="left">** Review paper (meta-analysis)**</td>
+<td align="center"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="center">ANOVA</td>
-<td align="center">Oct 15</td>
-<td align="right">[x]</td>
+<td align="left">** the developing brain network with **</td>
+<td align="center">[x]</td>
+<td align="center"></td>
+<td align="center">[x]</td>
+<td align="center">[x]</td>
+<td align="center"></td>
+<td align="center">[x]</td>
+<td align="center"></td>
+<td align="right"></td>
 </tr>
 <tr class="odd">
-<td align="left"></td>
-<td align="center">GLM for RT</td>
-<td align="center">Oct 22</td>
-<td align="right">[]</td>
+<td align="left"><strong>Townsend project.</strong></td>
+<td align="center">[x]</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="right"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="center">Adult v.s. child</td>
-<td align="center">Oct 22</td>
-<td align="right">[]</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="center">other</td>
-<td align="center">Oct 21</td>
-<td align="right">[]</td>
-</tr>
-<tr class="even">
-<td align="left">writing</td>
-<td align="center">get protocals</td>
-<td align="center">Oct 15</td>
-<td align="right">[x]</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="center">result</td>
-<td align="center">Oct 24</td>
-<td align="right">[]</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="center">method</td>
-<td align="center">Oct 25</td>
-<td align="right">[]</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="center">introduction</td>
-<td align="center">Oct 28</td>
-<td align="right">[]</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="center">first finished manuscript</td>
-<td align="center">Nov 12</td>
-<td align="right">[]</td>
+<td align="left"><strong>Franco project.</strong></td>
+<td align="center"></td>
 </tr>
 </tbody>
 </table>
@@ -380,13 +439,13 @@ $(document).ready(function () {
 <td align="left"></td>
 <td align="center">staircase design</td>
 <td align="center">Nov 19, 2018</td>
-<td align="right">[]</td>
+<td align="right">[x]</td>
 </tr>
 <tr class="odd">
 <td align="left"></td>
 <td align="center">brief proposal</td>
 <td align="center">Nov 29, 2018</td>
-<td align="right">[]</td>
+<td align="right">[x]</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
@@ -410,69 +469,325 @@ $(document).ready(function () {
 </table>
 <hr />
 </div>
+<div id="meetings-with-suzy" class="section level2">
+<h2>Meetings with Suzy</h2>
+<p>For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018 to talk about working in her lab.</p>
+<div id="feb-1-monday" class="section level3">
+<h3>2018 Feb 1 Monday</h3>
+<ul>
+<li>length: 70 min</li>
+<li>location: Moore 115</li>
+<li>Agenda:
+<ul>
+<li>copy the TD adolescents and adults data to the folder (see shard Evernote)</li>
+<li>asked the experimental design questions</li>
+<li>scheduled next meeting</li>
+</ul></li>
+</ul>
+</div>
+<div id="jan-14-monday" class="section level3">
+<h3>2018 Jan 14 Monday</h3>
+<ul>
+<li>length: 90 min</li>
+<li>location: Moore 115</li>
+<li>Agenda:
+<ul>
+<li>plan: work on the ASD study with 24 adolescence and 24 adults (p/neutral/n face/animal face/objects)
+<ul>
+<li>pixal-magnitude</li>
+<li>size- behavior</li>
+<li>connnectivity
+<ul>
+<li>Pattern of connectivity</li>
+<li>ED (R package Gimme)</li>
+<li>graph theory metrics e.g. 1 bigger size of FFA, smaller ED 2 FFA size yes / ? (Yes for adult) Age—–&gt;CFMT</li>
+</ul></li>
+</ul></li>
+<li>to do</li>
+<li>read Whyte et al., 2015</li>
+<li>schedule a meeting to check the subjects in the data and discuss about the predoctoral Autism Speaks</li>
+<li>read the previous applicants for Autism Speaks, and check
+<ul>
+<li>range of funding (eye/behavioral/neuroimaging)</li>
+<li>secondary data/ first-hand data collection</li>
+<li>what is their goal: who want to develop skills/ deveote life to study ASD (You have skills. I want you incorporate it to study and make ASD population better)</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="nov-19-monday" class="section level3">
+<h3>2018 Nov 19 Monday</h3>
+<ul>
+<li>length: 35 min</li>
+<li>location: Moore 115</li>
+<li>Agenda:
+<ul>
+<li>plan:
+<ul>
+<li>working on the past dataset of DTI, fMRI or functional connectivity (choose one), to learn how to process these datasets</li>
+<li>then we can sit together with RIck to discuss the next step, such as collaboration or …</li>
+<li>I expressed my interest to help with current projects, While Suzy said it still a long process before publishing paper. It is better for you to do sth which can be published soom</li>
+</ul></li>
+<li>SO, I need to talk with Rick:
+<ul>
+<li>convey the content of this discussion with Suzy (timeline, the plan, my time management)</li>
+</ul></li>
+<li>lab meeting: 1-2:15PM on Friday every two weeks, two left this semester, one dissertation by post-doc, one honor thesis by 2 undergrads.</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
 <div id="meetings-with-rick" class="section level2">
 <h2>Meetings with Rick</h2>
-<p>For the Fall 2018 Semester, I will meet Rick on Fridays from 1-2 pm in Rick’s office. In some conditions, I may ask for extra meeting in the weekdays.</p>
-<div id="friday" class="section level3">
-<h3>2018-10-12 Friday</h3>
+<p>For the Spring 2019, I will meet Rick on Fridays from 1-2 pm in Rick’s office. In some conditions, I may ask for extra meeting in the weekdays.</p>
+<div id="feb-8-friday" class="section level3">
+<h3>2018 Feb 8 Friday</h3>
 <ul>
-<li>length: 15 min</li>
-<li>Agenda:
-<ul>
-<li>set the scheme for projects</li>
-<li>MOCO project</li>
-<li>publication protocols</li>
-<li>socialization</li>
-<li>the project in wilkinson lab</li>
-<li>r consulting</li>
-</ul></li>
-<li>Next Meeting: Mon 4pm-5pm</li>
-</ul>
-</div>
-<div id="monday-zoom" class="section level3">
-<h3>2018-10-15 Monday (<strong>Zoom!</strong>)</h3>
-<ul>
-<li>length: 55 min</li>
-<li>Agenda:
-<ul>
-<li>MOCO project</li>
-</ul></li>
-</ul>
-</div>
-<div id="friday-1" class="section level3">
-<h3>2018-10-19 Friday</h3>
-<ul>
-<li>length: 60 min</li>
+<li>length: 70 min</li>
 <li>location: Moore 114</li>
 <li>Agenda:
 <ul>
-<li>MOCO project</li>
-<li>the project in wilkinson lab</li>
+<li>generate ssh key: ssh-keygen.py</li>
+<li>set the ssh project: git remote set-url origin [ssh origin]</li>
+<li>vss</li>
+<li>travel grant adivior signature</li>
 </ul></li>
 </ul>
 </div>
-<div id="wednesday" class="section level3">
-<h3>2018-10-24 Wednesday</h3>
+<div id="feb-1-monday-1" class="section level3">
+<h3>2018 Feb 1 Monday</h3>
+<ul>
+<li>length: 70 min</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>check Rick’s manuscrip</li>
+<li>graduate exhibition (past date)</li>
+<li>to attend the conference, present the work and build the academic network. Rick said he do not know who will attend Linguistics and Cognitive Science Student Conference 2019</li>
+</ul></li>
+</ul>
+</div>
+<div id="jan-15-friday" class="section level3">
+<h3>2019 Jan 15 Friday</h3>
+<ul>
+<li>length:</li>
+<li>location: Moore 114</li>
+<li>question:
+<ul>
+<li>why do you say the motion sensitivity is underestimated in the experiments?</li>
+<li>ICPSR Summer Program in Quantitative Methods of Social Research [<a href="https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html" class="uri">https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html</a>]</li>
+<li>summer course/schedule</li>
+<li>graduate exhibition [<a href="https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&amp;utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&amp;utm_medium=email&amp;utm_term=0_8969d35e92-29808ba476-168543285" class="uri">https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&amp;utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&amp;utm_medium=email&amp;utm_term=0_8969d35e92-29808ba476-168543285</a>]</li>
+<li>Linguistics and Cognitive Science Student Conference 2019 (Friday, April 12th, 2019) Deadline for abstract submission: February 28th, 2019 (by 5 pm EST)</li>
+</ul></li>
+<li>Agenda:</li>
+</ul>
+</div>
+<div id="jan-15-friday-1" class="section level3">
+<h3>2019 Jan 15 Friday</h3>
+<ul>
+<li>length:</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>summer: no more than 3 weeks vocation are good</li>
+<li>drift diffusion model for MOCO</li>
+<li>finish the r script and plot in R</li>
+<li>email Andrea the experimental diagram in temple talk 2017-02-17 in github</li>
+<li>new experiments:
+<ul>
+<li>measure motion (eye/object/head/body) empirically, get the speed distribution</li>
+<li>2 eye parameter 3 head parameters 3 body linear parameters 3 body rotation parameters</li>
+<li>get the parameters which is common at this age and use them to simulate the scene to see the noise sensitivity</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="jan-15-friday-2" class="section level3">
+<h3>2019 Jan 15 Friday</h3>
+<ul>
+<li>length:</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>MOCO manuscript -To do:</li>
+<li>ICPSR Summer Program in Quantitative Methods of Social Research [<a href="https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html" class="uri">https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html</a>]</li>
+<li>summer course/schedule</li>
+<li>graduate exhibition [<a href="https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&amp;utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&amp;utm_medium=email&amp;utm_term=0_8969d35e92-29808ba476-168543285" class="uri">https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&amp;utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&amp;utm_medium=email&amp;utm_term=0_8969d35e92-29808ba476-168543285</a>]</li>
+</ul></li>
+</ul>
+</div>
+<div id="jan-11-friday" class="section level3">
+<h3>2019 Jan 11 Friday</h3>
+<ul>
+<li>length:</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>MOCO manuscript</li>
+<li>grant application:</li>
+<li>Autism Speaks [<a href="https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf">https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf</a>]</li>
+</ul></li>
+</ul>
+</div>
+<div id="jan-10-friday" class="section level3">
+<h3>2019 Jan 10 Friday</h3>
+<ul>
+<li>length:</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>MOCO manuscript</li>
+<li>neural network paper</li>
+<li>grant application:</li>
+<li>Autism Speaks [<a href="https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf">https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf</a>]</li>
+<li>Reading this week</li>
+<li>2 paper</li>
+<li>reading in course “Social development”: How locomotion influence the perception, social cognition (Children start being able to differentiate the self from other in the world) and parent-child interaction</li>
+</ul></li>
+</ul>
+</div>
+<div id="jan-4-friday" class="section level3">
+<h3>2019 Jan 4 Friday</h3>
+<ul>
+<li>length: 74 min</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>give gifts</li>
+<li>holiday greetings</li>
+<li>course locomotion - balance your registered work with own research time (reading, thinking, writing, etc)</li>
+<li>lab meeting -Wed</li>
+<li>read
+<ul>
+<li>Paper “Motion perception: a review of developmental changes and the role of early visual experience”</li>
+<li>Paper “Identifying netural images from human brain activity”</li>
+<li>Chapter “Looking with the head and eyes”</li>
+<li>Check whether the chapter is worth reading in the lab meeting: “Perceiving Layout and knowing distances: the integration, relative potency, and contextual Use of Different Information about Depth”</li>
+</ul></li>
+<li>Send the MOCO manuscript on Jan 11, Friday</li>
+<li>Human vision (25 watz, more efficient) v.s. computer vision</li>
+</ul></li>
+</ul>
+</div>
+<div id="nov-30-friday" class="section level3">
+<h3>2018 Nov 30 Friday</h3>
 <ul>
 <li>length: 30 min</li>
 <li>location: Moore 114</li>
 <li>Agenda:
 <ul>
-<li>slack psu-psychology-forum: shall I invite other professors to the group? shall I invite all psychology students to the group?</li>
-<li>reorganized the MOCO project in github</li>
-<li>get Andrea’s manuscripts:</li>
-<li><a href="https://github.com/gilmore-lab/moco/blob/master/inf-2pat-lamrad/moco-inf-2pat-lamrad-manuscript2016.md" class="uri">https://github.com/gilmore-lab/moco/blob/master/inf-2pat-lamrad/moco-inf-2pat-lamrad-manuscript2016.md</a> (edited)</li>
-<li><a href="https://github.com/gilmore-lab/moco-psychophysics/blob/master/pubs/moco-child-laminar-radial-psychophysics-manuscript-2016.md" class="uri">https://github.com/gilmore-lab/moco-psychophysics/blob/master/pubs/moco-child-laminar-radial-psychophysics-manuscript-2016.md</a></li>
-<li><a href="https://github.com/gilmore-lab/mofo/blob/master/child-tuning/pubs/mofo-child-manuscript2016.md" class="uri">https://github.com/gilmore-lab/mofo/blob/master/child-tuning/pubs/mofo-child-manuscript2016.md</a></li>
-<li>credit transfer</li>
-<li>My intense interest in brain network, neuroimaging</li>
-<li>list the author guides for the possible journals</li>
-<li>how to add the references: example: <a href="https://github.com/psu-psychology/r-bootcamp-2018/blob/master/talks/gilmore-hallquist-bootcamp-2018-papaja.Rmd" class="uri">https://github.com/psu-psychology/r-bootcamp-2018/blob/master/talks/gilmore-hallquist-bootcamp-2018-papaja.Rmd</a>
-<ol style="list-style-type: decimal">
-<li>add *.bib in the files; output: IO slide-presentaion or github_document</li>
-<li>papaja</li>
-<li>citr package</li>
-</ol></li>
+<li>my prior meeting with Suzy</li>
+<li>TAship</li>
+<li>course in Spring 2018
+<ul>
+<li>Shall I take statistical course?</li>
+<li>research thesis</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="nov-28-wednesday" class="section level3">
+<h3>2018 Nov 28 Wednesday</h3>
+<ul>
+<li>length: 40 min</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>VSS (sned link to Krista)</li>
+<li>TAship: Rick’s course (Cannot find this course)</li>
+<li>PsychoPy how to set luminance? Greyness</li>
+<li>change lab meeting time to Friday 10AM-11PM</li>
+<li>PC in the lab</li>
+</ul></li>
+</ul>
+</div>
+<div id="nov-19-monday-1" class="section level3">
+<h3>2018 Nov 19 Monday</h3>
+<ul>
+<li>length: 150 min</li>
+<li>location: Ford 304</li>
+<li>Agenda:
+<ul>
+<li>Spring 2019 subject pool screening
+<ul>
+<li>Rich Carlson: “If you would like to include a NEW instrument not previously included or submitted to the screening, I will need that instrument no later than <strong>Thursday, December 7</strong>, so that I can submit a modification to the IRB protocol for the screening.</li>
+</ul></li>
+<li>a one-week NIH funded Summer Short Course (14-20 July 2019) titled “Interdisciplinary Training in Computational Neuroscience”
+<ul>
+<li>The deadline for applications is 15 February 2019. An on-line application form and additional details can be found in the attached flyer and at the website: <a href="https://engineering.missouri.edu/academics/eecs/neuro/neuro-outreach/neuro-brain/" class="uri">https://engineering.missouri.edu/academics/eecs/neuro/neuro-outreach/neuro-brain/</a></li>
+</ul></li>
+<li>my prior meeting with Suzy</li>
+<li>TAship</li>
+<li>course in Spring 2018
+<ul>
+<li>Shall I take statistical course?</li>
+<li>research thesis</li>
+</ul></li>
+<li>PsychoPy how to set luminance?</li>
+<li>IRB</li>
+</ul></li>
+</ul>
+</div>
+<div id="nov-19-monday-2" class="section level3">
+<h3>2018 Nov 19 Monday</h3>
+<ul>
+<li>length: 150 min</li>
+<li>location: Ford 304</li>
+<li>Agenda:
+<ul>
+<li>wilkinson lab</li>
+<li>abstract for VSS as the first author</li>
+<li>travel grants</li>
+<li>check the LP data of AC</li>
+</ul></li>
+</ul>
+</div>
+<div id="nov-17-cancelled-by-snow" class="section level3">
+<h3>2018 Nov 17 (cancelled by snow)</h3>
+</div>
+<div id="nov-14-wednesday-drop-in" class="section level3">
+<h3>2018 Nov 14 Wednesday (drop-in)</h3>
+<ul>
+<li>length: 5 min</li>
+<li>location: moore 114</li>
+<li>Agenda: R01 project 2 analysis</li>
+</ul>
+</div>
+<div id="nov-9-friday" class="section level3">
+<h3>2018 Nov 9 Friday</h3>
+<ul>
+<li>length: 60 min</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>wilkinson lab, make plot, meeting request</li>
+<li>Send the manuscript of MOCO next Wed to rick</li>
+<li>read paper “navigating cognition: spatial codes for human” &amp; “cognitive map in human and rats”</li>
+<li>moving room experiment; human infants learn how to gaze in the first several months, how do they work with eye movement, body movement and head movement to adapt to the changing environment? Think out this</li>
+<li>when you touch your eye, you feel your world move. But when you move your eye, you feel the world remain still. What’s the mechanism behind it? Different pathways?</li>
+</ul></li>
+<li>Planned agenda for next meeting</li>
+</ul>
+</div>
+<div id="nov-7-wednesday-drop-in" class="section level3">
+<h3>2018 Nov 7 Wednesday (drop-in)</h3>
+<ul>
+<li>length: 20 min</li>
+<li>location: moore 114</li>
+<li>Agenda:
+<ul>
+<li>Set up a regular check-in on Wednesday</li>
+<li>Spring 2018, course</li>
+<li>EEG softwares and protocal
+<ul>
+<li>brainvision analyzer</li>
+<li>Power DIVA</li>
+</ul></li>
+<li>Can I talk with Suzy?</li>
+<li>undergraduate progree</li>
+<li>Krista R01 experiment: data analysis</li>
 </ul></li>
 </ul>
 </div>
@@ -501,6 +816,69 @@ $(document).ready(function () {
 </ul></li>
 <li>Suzy &amp; Michael</li>
 </ul></li>
+</ul>
+</div>
+<div id="wednesday" class="section level3">
+<h3>2018-10-24 Wednesday</h3>
+<ul>
+<li>length: 30 min</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>slack psu-psychology-forum: shall I invite other professors to the group? shall I invite all psychology students to the group?</li>
+<li>reorganized the MOCO project in github</li>
+<li>get Andrea’s manuscripts:</li>
+<li><a href="https://github.com/gilmore-lab/moco/blob/master/inf-2pat-lamrad/moco-inf-2pat-lamrad-manuscript2016.md" class="uri">https://github.com/gilmore-lab/moco/blob/master/inf-2pat-lamrad/moco-inf-2pat-lamrad-manuscript2016.md</a> (edited)</li>
+<li><a href="https://github.com/gilmore-lab/moco-psychophysics/blob/master/pubs/moco-child-laminar-radial-psychophysics-manuscript-2016.md" class="uri">https://github.com/gilmore-lab/moco-psychophysics/blob/master/pubs/moco-child-laminar-radial-psychophysics-manuscript-2016.md</a></li>
+<li><a href="https://github.com/gilmore-lab/mofo/blob/master/child-tuning/pubs/mofo-child-manuscript2016.md" class="uri">https://github.com/gilmore-lab/mofo/blob/master/child-tuning/pubs/mofo-child-manuscript2016.md</a></li>
+<li>credit transfer</li>
+<li>My intense interest in brain network, neuroimaging</li>
+<li>list the author guides for the possible journals</li>
+<li>how to add the references: example: <a href="https://github.com/psu-psychology/r-bootcamp-2018/blob/master/talks/gilmore-hallquist-bootcamp-2018-papaja.Rmd" class="uri">https://github.com/psu-psychology/r-bootcamp-2018/blob/master/talks/gilmore-hallquist-bootcamp-2018-papaja.Rmd</a>
+<ol style="list-style-type: decimal">
+<li>add *.bib in the files; output: IO slide-presentaion or github_document</li>
+<li>papaja</li>
+<li>citr package</li>
+</ol></li>
+</ul></li>
+</ul>
+</div>
+<div id="friday" class="section level3">
+<h3>2018-10-19 Friday</h3>
+<ul>
+<li>length: 60 min</li>
+<li>location: Moore 114</li>
+<li>Agenda:
+<ul>
+<li>MOCO project</li>
+<li>the project in wilkinson lab</li>
+</ul></li>
+</ul>
+</div>
+<div id="monday-zoom" class="section level3">
+<h3>2018-10-15 Monday (<strong>Zoom!</strong>)</h3>
+<ul>
+<li>length: 55 min</li>
+<li>Agenda:
+<ul>
+<li>MOCO project</li>
+</ul></li>
+</ul>
+</div>
+<div id="friday-1" class="section level3">
+<h3>2018-10-12 Friday</h3>
+<ul>
+<li>length: 15 min</li>
+<li>Agenda:
+<ul>
+<li>set the scheme for projects</li>
+<li>MOCO project</li>
+<li>publication protocols</li>
+<li>socialization</li>
+<li>the project in wilkinson lab</li>
+<li>r consulting</li>
+</ul></li>
+<li>Next Meeting: Mon 4pm-5pm</li>
 </ul>
 </div>
 </div>
