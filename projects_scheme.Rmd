@@ -2,7 +2,9 @@
 title: "Project Scheme"
 author: "Yiming Qian"
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ***
@@ -49,5 +51,72 @@ output: html_document
 |    |write the codes for experimental displays  | Dec 1, 2018  |[]|
 | IRB   | submit the protocal for IRB  | Dec 1, 2018    |[]|
 |   |  submit to SONA | Dec 7, 2019   |[]|
+
+***
+# Milestones:
+Master’s Thesis: MOFO-late spring 2020 
+  -	Analysis: Summer 2019
+  -	First draft: Jan 2019
+  -	Final draft: Apr 2029
+  -	Thesis defense: late spring 2020
+  -	Submit for publication: late spring 2020
+Dissertation proposal: summer/fall 2021
+Comp: summer 2022
+Doctoral dissertation: late spring 2023
+
+## Project 1 – MOCO project
+-	Current progression: writing
+-	Timeline: 
+    -	Add analysis, such as ROC and drift diffusion model
+    -	Submit for publication: Late summer 2019
+
+## Project 2 –Animal/human face 
+-	Current progression: preprocessing data
+-	Timeline: 
+    -	Finish processing neuroimaging data: April 2019
+    -	Preliminary analysis: April 2019
+    -	If possible, submit the abstract to the conference: deadline Apr 30, 2019
+        -	Preliminary analysis: April 10, 2019
+        -	Abstract draft: April 20, 2019
+        -	Abstract submission: Apr 29, 2019
+    -	DTI analysis if possible: summer 2019
+    -	Analysis: late summer 2019
+    -	Writing: late Fall 2019
+    -	Submit for publication: Spring 2020
+
+## Project 3 – Down syndrome
+-	Current progression: Preliminary analysis
+-	Timeline: 
+    -	Analysis: May 2019
+    -	Poster: May 22, 2019
+        -	Getting the results and pictures
+        -	Draft of poster: May 5, 2019
+        -	Final draft and practice: May 15, 2019 
+        -	Printing: May 15, 2019
+    -	Writing: summer 2019
+    -	Submit for publication: fall 2019
+
+### Project 4 – Review of motion perception
+-	Current progression: reading the literature
+-	Timeline: 
+    - Develop ideas: summer 2019
+    -	Writing: TBD
+    -	Submit for publication: TBD
+
+# Ultimate goal: faculty in the university setting!
+## Mean: 
+### publish MORE valuable papers
+### figure out the research interests
+
+***
+## Other concerns:
+- Get involved in the ASD research (ask for the research opportunities)
+    - Possible faculty: Diana Williams, Suzy Scherf, Krista Wilkinson, etc.
+    -	Apply for the Autism Speaks Predoctoral fellowship on Feb 27, 2020
+-	Rick does not have on-going project now. 	
+    -	Think hard of the possible research ideas which can be conducted in the near future and collect the pilot data
+    -	Ask Rick whether it is possible to write a proposal together
+-	Get prepared for the dissertation award- summer 2021
+-	I found the faculty in ESM conducting some interesting neural computational research. Try to reach them (Dr. Bruce Gluckman, Dr. Xiao Liu)
 
 ***
