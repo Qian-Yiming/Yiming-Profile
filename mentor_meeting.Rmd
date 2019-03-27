@@ -10,7 +10,102 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Mentor Meeting summary
-This is the record of mentor meeting starting from Mar 19, 2019
+This is the record of mentor meeting since fall, 2018
+
+## Meetings with Suzy
+
+For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018 to talk about working in her lab. 
+
+### 2018 Feb 15 Fri
+- length: 120 min 
+- location: Moore 115
+- Agenda: 
+    - find the matlab script for animal face project (whether there is 21s in the beginning and 15s at the end)
+    - create my own txt(.prt) file for each subject
+    - I talked with Dr. Miller, the person who conduct the ASD research in CSD department is Diana Williams (I may be okay to have an independent study to work with her in one project, she is not only doing language study but also cognition), XX, Krista Wilkinson (one of her graduate student just defend on ASD). Also, Natalie Schwob is doing research with Diana. I can ask her for getting more information.
+    
+### 2018 Feb 15 Fri
+- length: 20 min 
+- location: Moore 115
+- Agenda: 
+    - 291TE , but in the prt file, it is 284TE
+    - get dropbox
+    - schedule next meeting (best on Monday)
+    - give Suzy the permission of the folder in ACI
+    
+### 2018 Feb 16 Sat
+- length: 5 min 
+- location: after the interview recruitment presentation
+- Agenda: 
+    - meet Sarah first to know how to preprocess the data and we wwill schedule the next meeting
+    - work all the time in the summer
+    - the research question: FFA changes toward human face and nonhuman face from adolscence to adulthood
+    
+### 2018 Feb 1 Monday
+- length: 70 min 
+- location: Moore 115
+- Agenda: 
+    - copy the TD adolescents and adults data to the folder (see shard Evernote)
+    - asked the experimental design questions
+    - scheduled next meeting
+    
+### 2018 Jan 14 Monday
+- length: 90 min 
+- location: Moore 115
+- Agenda: 
+    - plan: 
+      work on the ASD study with 24 adolescence and 24 adults (p/neutral/n face/animal face/objects)
+        - pixal-magnitude
+        - size- behavior
+        - connnectivity
+            - Pattern of connectivity
+            - ED (R package Gimme)
+            - graph theory metrics
+      e.g. 1 bigger size of FFA, smaller ED
+           2 FFA size
+        yes  /      \?  (Yes for adult)
+           Age----->CFMT
+    - to do
+       - read Whyte et al., 2015
+       - schedule a meeting to check the subjects in the data and discuss about the predoctoral Autism Speaks
+       - read the previous applicants for Autism Speaks, and check
+          - range of funding (eye/behavioral/neuroimaging)
+          - secondary data/ first-hand data collection
+          - what is their goal: who want to develop skills/ deveote life to study ASD (You have skills. I want you incorporate it to study and make ASD population better)
+
+### 2018 Nov 19 Monday
+- length: 35 min 
+- location: Moore 115
+- Agenda: 
+    - plan: 
+        - working on the past dataset of DTI, fMRI or functional connectivity (choose one), to learn how to process these datasets
+        - then we can sit together with RIck to discuss the next step, such as collaboration or ...
+        - I expressed my interest to help with current projects, While Suzy said it still a long process before publishing paper. It is better for you to do sth which can be published soom
+    - SO, I need to talk with Rick:
+        - convey the content of this discussion with Suzy (timeline, the plan, my time management)
+    - lab meeting: 1-2:15PM on Friday every two weeks, two left this semester, one dissertation by post-doc, one honor thesis by 2 undergrads.
+    
+***
+## Meetings with Rick
+
+For the Spring 2019, I will meet Rick on Fridays from 1-2 pm in Rick's office.
+In some conditions, I may ask for extra meeting in the weekdays. 
+
+### 2018 Mar 26 Tuesday
+- length: 45 min 
+- location: Moore 114
+- Agenda: 
+    - requirement for the faculty: publication, possibility to bring grant to the university, teaching experience (Rick was getting 2 interviews out of 50 or 60 applications)
+    - requirement for the post-doc: 
+        - publication, you have the techniques that the professor requires and you can also get something from the professor
+        - full time research assistant-how much working on the professor's project and indenpendent research depends on the funding (working on the independent research may benefit more as you would establish your own lab in the future and have unique research line)
+        - some predoc works with the professor one year before the dissertation defense, submitting a proposal together
+    - What is the difference between post-doc and pre-doc? More money, own office, full-time research, what else? (Rick said he is the part time researcher)
+    - Should I work on your projects or submit the research proposal with you? I do not know how much I should step in. (Did not answre directly) Rick said he is going to do some pilot study in the summer
+- to do:
+    - fall course
+    - Dr cook
+    - difference between thesis and dissertation
 
 ## 2019 Mar 19 Tuesday
 - length: 60 min 
@@ -27,4 +122,271 @@ This is the record of mentor meeting starting from Mar 19, 2019
        - BEST WAY: introduced by your advisor, then if the other professor have a good connection with your advisor, they would memorize you
        - after the talk, introduce yourself: "Hi, I am Yiming Qian. My advisor is Rick. I just want to introduce myself to you. blablabla"
        - ask/email them whether I could have a meeting with them/grab a coffee with them
-    - three basic courses: Social/cognitive development, development theory
+    - three basic courses: Social/cognitive development, development theory    
+    
+### 2018 Mar 1 Friday
+- length: 60 min 
+- location: Moore 114
+- Agenda: 
+    - my progress
+    - rick's progress
+        - meta-analysis
+        - control systems for action and perception (able to hold books when some books are added, reading the books when walking)
+    - Think of your goal in five years
+    - Send Rick a paper to discuss on Friday, so Rick can figure out my interest
+
+### 2018 Mar 1 Friday
+- length: 20 min 
+- location: Moore 114
+- Agenda: 
+    - credit transfer
+    - graduate exhibition
+    - Master thesis
+- to do: 
+    - I asked Sherri, to approve the course. I need to ask advisor to wrote a demo to the instructor (such as Johnathon Cook) for asking the approval that XXX (my previous course) is equivalent to course XXX (such as 507/508). It can be used as course XXX. Then the instructor can send an email to Sherri, and she can put it into my folder.
+    - Graduate exhibition, I am not listed in the team of the IRB I provided
+    - neurotreat
+    - Review the journal
+    - why do people feel dizzy when changing a pair of glasses (depth perception)?
+        
+### 2018 Feb 15 Friday
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - graduate exhibition Feb 22
+    - finish the moco manuscript, can I use it as the thesis? But it require the proposal submission. I need to ask Jenae
+    - cover note for slack group
+    - travel grant from csc $800
+    - From the interview, I found that: 
+        - poster can be the first-year project
+        - master thesis defense need proposal
+        - The doctoral dissertation can be 3 paper, or a big project (Alicia just submitted a F31 grant ; if passed, she will use it as the dissertation. If not, she will do 3 paper)
+        - SCAN would be promoted as a dual-title 
+    
+### 2018 Feb 8 Friday
+- length: 70 min 
+- location: Moore 114
+- Agenda: 
+    - generate ssh key: ssh-keygen.py
+    - set the ssh project: git remote set-url origin [ssh origin]
+    - vss
+    - travel grant adivior signature
+    - google "publication ready plot"
+    - graduate exhibition (Feb 22)
+
+### 2018 Feb 1 Monday
+- length: 70 min 
+- location: Moore 114
+- Agenda: 
+    - check Rick's manuscript
+    - graduate exhibition (past date)
+    - to attend the conference, present the work and build the academic network. Rick said he do not know who will attend Linguistics and Cognitive Science Student Conference 2019
+    
+### 2019 Jan 15 Friday
+- length:
+- location: Moore 114
+- question:
+    - why do you say the motion sensitivity is underestimated in the experiments?
+    - ICPSR Summer Program in Quantitative Methods of Social Research [https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html]
+    - summer course/schedule
+    - graduate exhibition [https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&utm_medium=email&utm_term=0_8969d35e92-29808ba476-168543285]
+    -  Linguistics and Cognitive Science Student Conference 2019 (Friday, April 12th, 2019) Deadline for abstract submission: February 28th, 2019 (by 5 pm EST)
+- Agenda:
+
+### 2019 Jan 15 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - summer: no more than 3 weeks vocation are good
+    - drift diffusion model for MOCO
+    - finish the r script and plot in R
+    - email Andrea the experimental diagram in temple talk 2017-02-17 in github
+    - new experiments:
+        - measure motion (eye/object/head/body) empirically, get the speed distribution
+        - 2 eye parameter
+          3 head parameters
+          3 body linear parameters
+          3 body rotation parameters
+        - get the parameters which is common at this age and use them to simulate the scene to see the noise sensitivity
+    
+### 2019 Jan 15 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - MOCO manuscript
+-To do: 
+    - ICPSR Summer Program in Quantitative Methods of Social Research [https://www.icpsr.umich.edu/icpsrweb/content/sumprog/schedule.html]
+    - summer course/schedule
+    - graduate exhibition [https://secure.gradsch.psu.edu/cosign/registrations/gradexhibition/infosession/?utm_source=Graduate+Program+Contacts&utm_campaign=29808ba476-EMAIL_CAMPAIGN_2016_12_05_COPY_06&utm_medium=email&utm_term=0_8969d35e92-29808ba476-168543285]
+
+### 2019 Jan 11 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - MOCO manuscript
+    - grant application:
+      - Autism Speaks [https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf]
+      
+### 2019 Jan 10 Friday
+- length:
+- location: Moore 114
+- Agenda:
+    - MOCO manuscript
+    - neural network paper
+    - grant application:
+      - Autism Speaks [https://science.grants.autismspeaks.org/uploads/helpdocs/2019%20Predoctoral_Fellowship_RFA.pdf]
+    - Reading this week
+      - 2 paper
+      - reading in course "Social development": How locomotion influence the perception, social cognition (Children start being able to differentiate the self from other in the world) and parent-child interaction
+
+### 2019 Jan 4 Friday
+- length: 74 min 
+- location: Moore 114
+- Agenda: 
+    - give gifts
+    - holiday greetings
+    - course locomotion - balance your registered work with own research time (reading, thinking, writing, etc)
+    - lab meeting -Wed
+    - read 
+        - Paper "Motion perception: a review of developmental changes and the role of early visual experience"
+        - Paper "Identifying netural images from human brain activity"
+        - Chapter "Looking with the head and eyes"
+        - Check whether the chapter is worth reading in the lab meeting: "Perceiving Layout and knowing distances: the integration, relative potency, and contextual Use of Different Information about Depth"
+    - Send the MOCO manuscript on Jan 11, Friday
+    - Human vision (25 watz, more efficient) v.s. computer vision
+        
+### 2018 Nov 30 Friday
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - my prior meeting with Suzy
+    - TAship
+    - course in Spring 2018
+        - Shall I take statistical course?
+        - research thesis
+
+### 2018 Nov 28 Wednesday
+- length: 40 min 
+- location: Moore 114
+- Agenda: 
+    - VSS (sned link to Krista)
+    - TAship: Rick's course (Cannot find this course)
+    - PsychoPy how to set luminance? Greyness
+    - change lab meeting time to Friday 10AM-11PM
+    - PC in the lab
+    
+### 2018 Nov 19 Monday
+- length: 150 min 
+- location: Ford 304
+- Agenda: 
+    - Spring 2019 subject pool screening 
+        - Rich Carlson:  "If you would like to include a NEW instrument not previously included or submitted to the screening, I will need that instrument no later than **Thursday, December 7**, so that I can submit a modification to the IRB protocol for the screening.
+    - a one-week NIH funded Summer Short Course (14-20 July 2019) titled "Interdisciplinary Training in Computational Neuroscience" 
+        - The deadline for applications is 15 February 2019.  An on-line application form and additional details can be found in the attached flyer and at the website: https://engineering.missouri.edu/academics/eecs/neuro/neuro-outreach/neuro-brain/
+    - my prior meeting with Suzy
+    - TAship
+    - course in Spring 2018
+        - Shall I take statistical course?
+        - research thesis
+    - PsychoPy how to set luminance? 
+    - IRB
+  
+
+### 2018 Nov 19 Monday
+- length: 150 min 
+- location: Ford 304
+- Agenda: 
+    - wilkinson lab
+    - abstract for VSS as the first author
+    - travel grants 
+    - check the LP data of AC 
+
+### 2018 Nov 17  (cancelled by snow)
+
+### 2018 Nov 14 Wednesday (drop-in)
+- length: 5 min
+- location: moore 114
+- Agenda: R01 project 2 analysis
+
+### 2018 Nov 9 Friday
+- length: 60 min 
+- location: Moore 114
+- Agenda: 
+    - wilkinson lab, make plot, meeting request
+    - Send the manuscript of MOCO next Wed to rick
+    - read paper "navigating cognition: spatial codes for human" & "cognitive map in human and rats"
+    - moving room experiment; human infants learn how to gaze in the first several months, how do they work with eye movement, body movement and head movement to adapt to the changing environment? Think out this
+    - when you touch your eye, you feel your world move. But when you move your eye, you feel the world remain still. What's the mechanism behind it? Different pathways?
+- Planned agenda for next meeting
+
+### 2018 Nov 7 Wednesday (drop-in)
+- length: 20 min
+- location: moore 114
+- Agenda:
+    - Set up a regular check-in on Wednesday
+    - Spring 2018, course
+    - EEG softwares and protocal
+        - brainvision analyzer
+        - Power DIVA
+    - Can I talk with Suzy? 
+    - undergraduate progree
+    - Krista R01 experiment: data analysis
+
+### 2018 Nov 2 Friday
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - MOFO project used for constructing neural network for course PHYS 580
+    - PLAY projects
+    - Machine learning in CATlab
+- Planned agenda for next meeting
+    - [P.E.O. International Peace Scholarship](https://www.peointernational.org/ips-eligibility-requirements) 
+        - Eligibility form due Dec 15; form due March 1
+        - consent form: "Upon completion of my degree program(s) or Optional Practical Training (OPT) I hereby promise to return to my home country or to a location outside the United States or Canada within 60 days, depending on my visa status." 
+    - Spring 2019 subject pool screening 
+        - Rich Carlson:  If you would like to include a NEW instrument not previously included or submitted to the screening, I will need that instrument no later than **Thursday, December 7**, so that I can submit a modification to the IRB protocol for the screening.  
+    ` SRCD coference in March, 2019 (WHen is the submission dadline?)
+    - Suzy & Michael
+  
+### 2018-10-24 Wednesday
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - slack psu-psychology-forum: shall I invite other professors to the group? shall I invite all psychology students to the group?
+    - reorganized the MOCO project in github
+    - get Andrea's manuscripts: 
+       - https://github.com/gilmore-lab/moco/blob/master/inf-2pat-lamrad/moco-inf-2pat-lamrad-manuscript2016.md (edited)
+       - https://github.com/gilmore-lab/moco-psychophysics/blob/master/pubs/moco-child-laminar-radial-psychophysics-manuscript-2016.md
+       - https://github.com/gilmore-lab/mofo/blob/master/child-tuning/pubs/mofo-child-manuscript2016.md
+    - credit transfer
+    - My intense interest in brain network, neuroimaging
+    - list the author guides for the possible journals
+    - how to add the references: 
+        example: https://github.com/psu-psychology/r-bootcamp-2018/blob/master/talks/gilmore-hallquist-bootcamp-2018-papaja.Rmd
+        1. add *.bib in the files; output: IO slide-presentaion or github_document
+        2. papaja
+        3. citr package
+
+### 2018-10-19 Friday 
+- length: 60 min 
+- location: Moore 114
+- Agenda: 
+    - MOCO project
+    - the project in wilkinson lab
+
+### 2018-10-15 Monday (**Zoom!**)
+- length: 55 min 
+- Agenda: 
+    - MOCO project
+    
+### 2018-10-12 Friday
+- length: 15 min 
+- Agenda: 
+    - set the scheme for projects
+    - MOCO project
+    - publication protocols
+    - socialization
+    - the project in wilkinson lab
+    - r consulting
+- Next Meeting: Mon 4pm-5pm 
+   
