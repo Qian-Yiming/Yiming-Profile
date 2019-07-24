@@ -88,9 +88,120 @@ For the Fall 2018 Semester, I met with Suzy at 1PM at her office on Nov 20, 2018
 ***
 ## Meetings with Rick
 
-For the Spring 2019, I will meet Rick on Fridays from 1-2 pm in Rick's office.
+For the Spring 2019, I will meet Rick on Fridays from 1-2 pm in Rick's office.10:30-12AM on Friday in summer. 
 In some conditions, I may ask for extra meeting in the weekdays. 
 
+# 2019 Jul 24 Wed
+- length: 95 min
+- location: Moore 114
+- Agenda: 
+     - review Hadad's review paper
+- to-do:
+     - think what you want to accomplish in sex difference project
+     - read the supplemental reading for Hadad's paper
+     
+# 2019 Jul 16 Tue
+- length: 90 min
+- location: Moore 114
+- Agenda: 
+     - current projects: moco, suzy, child maltreatment, meta-analysis, Krista, sex difference
+     - meeting with Krista, Sheri, Emma
+     - what you interested most?
+     - leader in sex difference project: "you need to be enthusiastic enough to carry it"
+     - sex diferrence project discussion
+     - think of what your strength is? Methodology? How can I advertise myself after three years when I apply for post-doc? What is my statement?
+- To-do:
+     - review Hadak's review paper
+
+# 2019 Jul 9 Tue
+- length: 90 min
+- location: Moore 114
+- Agenda: 
+     - grating code
+     - clone from github and pull to github in terminal
+     
+# 2019 Jul 2 Tue
+- length: 60 min
+- location: Moore 114
+- Agenda: 
+     - next time: practice grating in psychopy 
+     
+# 2019 Jun 25 Tue
+- length: 60 min
+- location: Moore 114
+- Agenda: 
+     - PEEP project data visualization
+     - Sex difference project
+     - send papers and outlines at least two days before the meeting, so we could have a discussion
+     - Emma Rose
+     - I told Rick that I need more guidance and support in this project
+     
+# 2019 Jun 18 Tue
+- length: 60 min, following by 60 min meeting with Sheri
+- location: Moore 114
+- Agenda: 
+     - depth or number much more important? one of indicators of research depth is the the number of publication
+     - review of the whole academic year: 
+        - form the committee for quality exam before the end of summer 
+        - thesis 
+        - get your research focus
+     - sex difference:
+        - design the motion perception experiment and get IRB
+        - ask for Ab's code, see whether his finding can be replicated
+        - get subject pool before Fall semester
+        - next meeting: the end of July
+    - opportunity to review paper 
+     He said he will give me this opportunity if there is related paper
+    - opportunity to do fMRI stuff
+     As long as there is good question and this question does need fMRi (both amplitude as well as localization), he definitely can do that. He also said don't worry about funding. As long as there is good question, it attacts grant application
+
+# 2019 Jun 14 Friday
+- length: 60+ with lunch
+- location: Moore 114
+- Agenda: 
+    - report VSS conference
+    - reimbursement
+    - new research idea
+    - talking a little bit about the post-doc 
+        
+### 2019 Apr 16 Fri
+- length: 30 min 
+- location: Moore 114
+- Agenda:
+    - research proposal
+        - format: NIH/NSF
+        - 3-5 aims: broad goal
+        Example:
+        Aim 1: Do cool stuff
+        Aim 2: More cool stuff
+        Aim 3: More cool stuff
+        Motivation (a summary, what we're doing and why this study important)
+          Intellecttual Merit (for NSF)
+          Broader Impact (for NSF) how it influences society and research field
+        Background (literature review) after this, it should be very clear why you conduct this study not the other
+          These is a gap in our understanding of X that we will fill with the activities we describe next.
+        Implemntation plan (real research projects)
+          we will conduct two series of empirical studies, the first involves a set of bejavioral examinations and the second focused on the fMRI study of brain activities
+          Study series 1
+          Project 1 aligns with Aim 1 and 2.
+          Project 1.1
+          Study 1.2
+          Experiment 1.3
+        (This study/project can be parallel, independent or the latter depends no the former)
+          Study series 2 Brain imaging measures of motion sensitivity
+          Address Aim 3. 
+          Project 2.1
+          Project 2.2
+          Project 2.3
+
+### 2019 Apr 16 Fri
+- length: 30 min 
+- location: google hangout
+- Agenda:
+    - ethnic grant 
+    - get data from Kista
+    - fall course
+    
 ### 2019 Apr 5 Fri
 - length: 60 min
 - location: Moore 114
@@ -100,7 +211,7 @@ In some conditions, I may ask for extra meeting in the weekdays.
 - to do:
     - course for Fall 2019
     - http://gradschool.psu.edu/faculty-and-staff/graduate-school-allocation-administration/guidelines/?mobileFormat=false
-    - Dr. Cook
+    - Dr. Cook (yes)
     - Symmetry
 
 ### 2018 Mar 29 Thurs
