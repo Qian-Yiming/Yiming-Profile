@@ -1,0 +1,49 @@
+---
+title: "Mentor_Meeting_2019-2020"
+author: "Yiming"
+date: "8/30/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mentor Meeting summary
+This is the record of mentor meeting since fall, 2019
+
+***
+## Meetings with Rick
+### 2019 Aug 30 1:45PM
+- length: 15 min 
+- location: Moore 114
+- Agenda: 
+    - why use weibull function to calculate the coherence threshold with staircase procedure
+    - Rick is my advisor, decide whether become a communicator of your meeting with Emma, or he attend the meeting ("he is willing to attend some of meeting but it may not necessary")
+ 
+***   
+## Meetings with Rick and Sheri
+### 2019 Aug 30 1:00PM
+- length: 45 min 
+- location: Moore 114
+- Agenda: 
+    - protocol and consent form
+    - codes
+    - surveys (IQ is individual-adminstered; Sheri has three-minute processing speed measure)
+    - new papers
+    - Subject pool: request 300 hrs, but actually get 200 hrs
+    - to do: 
+        1. email andrea for merge
+        2. send the last version of protocol to sheri
+        3. work on quest algorithm
+        4. write down the parameters
+        5. think about the output structure
+        6. get a subject pool account
+        7. Working place in BBH?
+    - to solve
+        1. monitor >150 hz
+        2. Moore 503
+        3. databrary
+        
+    
+    
