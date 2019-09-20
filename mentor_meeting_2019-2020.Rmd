@@ -14,15 +14,81 @@ This is the record of mentor meeting since fall, 2019
 
 ***
 ## Meetings with Rick
+
+### 2019 Sept 19 12:30PM
+- length: 70 min 
+- location: Moore 114
+- Agenda: 
+    - code: 
+            - add ISI between fixation and stimuli (uniform/Gaussian/...)
+            - find the paper to justify the interval between fixation and stimuli
+            - start value for contrast: 0.5
+            - export a short movie by writing some code
+            - round fixation (+ may influence the visual experience of later vertical or horizontal stimuli)
+            - think of the structure of data output
+    - python can do what batch do
+    - fix your mistake, email Emma and other whether they can meet in the same time of the other weekdays
+    - email Dr. Nilam if he did not reply next week
+    - how is your progress of the moco paper/presentation?
+    - build up the bond, exchange the expectations:
+    
+    Rick suggest:  - You are very independent
+                   - have a note book to record your to-do in an organized way
+                   - comments on your code, so you can check them later
+                   - you are accepting the criticism very well. I said "I want to hear the criticism, or I won't know what I am not doing right. i cannot improve myself"
+                   - when you made a mistake. Take your responsibility and fix it
+                   - read together another interesting paper in CMS together, so Rick can know what I am doing
+                   - take more responsibility with undergraduates
+                   - at the beginning of the meeting, give Rick a report of what I am doing and my progress. So Rick can know what is the priority of the meeting and ensure the time allocated well (an outline)
+    I feel:        - Rick is really supportive and helpful 
+                   - it is always delightful to talk with you. Rick said "He tried to give me *constructive* criticism" "I know it is hard to negiotiate the role of a student and an employee. I treat you as a collaborator"
+                   - God gives me the best advisor
+
+### 2019 Sept 4 1PM
+- length: 30 min 
+- location: Moore 114
+- Agenda: 
+    - conversation with Jenae about my current projects and inquiry about the master's
+            - no need to propose
+            - form the committee
+            - publication-format paper
+            - oral defense
+    - express the conversation in the child maltreatment meeting this morning
+    - Committee: Erika, Mikeal
+    "I am going to defend this semester. The project is about. The commitee chair is. Would you like to be my committee member?"
+    
 ### 2019 Aug 30 1:45PM
 - length: 15 min 
 - location: Moore 114
 - Agenda: 
     - why use weibull function to calculate the coherence threshold with staircase procedure
     - Rick is my advisor, decide whether become a communicator of your meeting with Emma, or he attend the meeting ("he is willing to attend some of meeting but it may not necessary")
+    
  
 ***   
-## Meetings with Rick and Sheri
+## Sex difference project
+### 2019 Sept 16 1:00PM
+- length: 70 min 
+- location: Moore 114
+- Agenda: 
+    - protocol and personnal form
+    - committee
+    - to do
+        1. write down the protocol and train RAs
+        2. ask RA to search literatures of sex difference in visual perception
+        3. Qualtrics->email Emily 
+        4. experimental codes
+        5. review the IRB protocol again and submit it this week
+        
+### 2019 Sept 9 1:00PM
+- length: 45 min 
+- location: Moore 114
+- Agenda: 
+    - protocol and consent form
+    - show my codes
+    - to solve
+        1. edit the protocol and send it to Rick
+        
 ### 2019 Aug 30 1:00PM
 - length: 45 min 
 - location: Moore 114
@@ -45,5 +111,25 @@ This is the record of mentor meeting since fall, 2019
         2. Moore 503
         3. databrary
         
+***   
+## child Maltreatment project
+
+### 2019 Sept 9 9:30AM
+- length: 30 min 
+- location: BBH 310
+- Agenda: 
+    - do not be late again
+    - ACI get ejr and jng3
+    - literature (you are paid for 20 hrs/week, so read the papers)
+    
+### 2019 Sept 4 9:00AM
+- length: 60 min 
+- location: BBH 310
+- Agenda: 
+    - meeting time
+    - computer
+    - goal
+    - shared box folder and spreadsheet
+    - OHBP conference
     
     
