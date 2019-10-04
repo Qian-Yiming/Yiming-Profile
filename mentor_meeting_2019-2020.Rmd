@@ -9,11 +9,42 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+| Project| idea developed |IRB| grant sumbitted|data collection|data analysis|conference| manuscript|submission|review|published|
+| :---|     :---: | :---:|:---:|:---:|:---:|:---:|:---:|     ---:|
+| **MOCO project.**  |[x]|[x]|[x]|[x]|[x]|[x]|[x]||||
+| **R01 project.**   | [x]|[x]|[x]|[x]|[x]||[x]||||
+| **Review paper (meta-analysis)**|
+| **Sex difference Project**| [x]|[x]||||||||
+| **Child maltreatment Project**| [x]||[x]|[x]|[x]|||||
+| **AF Project**| [x]||[x]|[x]||[x]||||
+
+
 # Mentor Meeting summary
 This is the record of mentor meeting since fall, 2019
 
+
 ***
 ## Meetings with Rick
+### 2019 Oct 4 12:30PM
+- length:  min 
+- location: Moore 114
+- Agenda: 
+    - Master thesis
+    - talked about the health condition and roommate issue yesterday
+    - submit the IRB again and create a new study in SONA
+    - Child health study monthly meeting
+- To do:
+    - Paper or coding next week
+    - get two specfic time slots for writing and reading
+
+### 2019 Sept 26 12:30PM
+- length: 90 min 
+- location: Moore 114
+- Agenda: 
+    - read a child maltreatment paper, and monthly meeting
+    - master thesis, such as Liz, Johnnason Cook, Adam
+    - First year project will be presented in lab meeting on Oct 10
+    - sex difference project
 
 ### 2019 Sept 19 12:30PM
 - length: 70 min 
